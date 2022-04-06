@@ -1,3 +1,3 @@
-FROM arangodb:3.8.6
+FROM arangodb:3.9.0
 
 EXPOSE 8529
